@@ -55,3 +55,6 @@ TensorFlow is a dataflow and differentiable programming-based symbolic math tool
 Keras is a Python-based deep learning API that runs on top of TensorFlow, a machine learning
 platform. It was created with the goal of allowing for quick experimentation. It's crucial to be
 able to go from idea to result as quickly as feasible when conducting research.
+# Machine learning and Deep learnnig 
+# use of different architectures 
+VGG16, VGG19, Resnet-50
