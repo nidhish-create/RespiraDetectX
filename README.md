@@ -1,6 +1,6 @@
 # RespiraDetectX
 A project to predict Covid-19 , Pneumonia and Tuberculosis by looking through x-ray images and using Deep Learning.
-
+             
 # OBJECTIVE
 Early diagnosis and treatment of lung diseases is critical to prevent complications including
 death. Lung diseases cause respiratory distress. Through early detection and identification of
